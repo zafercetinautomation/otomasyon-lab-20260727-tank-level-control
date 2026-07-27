@@ -1,0 +1,9 @@
+[project]
+name = "twincat-tank-level-control"
+version = "1.0.0"
+description = "TwinCAT tank seviye kontrolü için Türkçe eğitim simülasyonu"
+requires-python = ">=3.11"
+
+[tool.ruff]
+line-length = 88
+target-version = "py311"
